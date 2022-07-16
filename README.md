@@ -1,1 +1,1 @@
-# Food-hunt-website-project
+# Food-hut-website-project
